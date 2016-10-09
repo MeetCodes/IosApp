@@ -3,5 +3,5 @@ MeetCodes is a simple  way to create and share detailed location information for
 
 Current Status:
 
-Version 1.2 (1.2) : 10/9/2016
+# Version 1.2 (1.2) : 10/9/2016
 Waiting for Review from App Store.
