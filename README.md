@@ -5,4 +5,4 @@ Current Status:
 
 Version 1.0 (Build 1.2) : 10/9/2016
 -----------------------------
-Waiting for Review from App Store.
+Download App : https://itunes.apple.com/us/app/meet-codes/id1158754536?ls=1&mt=8#
